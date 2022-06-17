@@ -4,7 +4,6 @@ Welcome to the homepage for Division B of District 33! Here you will find
 information related to the Division and its leaders, important dates, and
 general Toastmaster tips.
 
-
 ## Recent Announcements
 
 ### [2022-06-08] Looking for Area Directors
@@ -31,6 +30,7 @@ announced. Details may be found in the [original announcement document](Training
 
 * [District Website](https://d33tm.org/)
 * [Toastmasters International](https://www.toastmasters.org/)
+* [Division B Clubs](divisionBClubs.md)
  
 ### Training Listings
 
