@@ -6,23 +6,16 @@ general Toastmaster tips.
 
 ## Recent Announcements
 
+### [2022-06-21] Club Officer Training on July 9
+
+Club Officer Training will be offered on Saturday July 9 at 8:00 am - 12:00 pm over Zoom. ([details](Trainings/clubOfficerTrainings.md))
+
 ### [2022-06-08] Looking for Area Directors
 
 Forms and Position Listings: https://d33tm.org/district-leadership-forms/
 
 ## Announcements for Area Directors
 
-### [2022-06-08] Training Announcement
-
-Some upcoming training meetings for our new Area Directors have been
-announced. Details may be found in the [original announcement document](Trainings/introductoryDistrictLeaderTrainings.pdf).
-
-|Name|Description|Date|Time|Zoom Link|
-|----|-----------|----|----|---------|
-|Training 1|District Leader, Area Director, and Division Director Training|2022-06-11|0900-1130|https://us02web.zoom.us/meeting/register/tZIudO6tqTMjGdD6QBwkFvx1-qNKcTwFP0bH|
-|Training 2|Speechcraft Now and MeetUp - Let's build every club to 20 members|2022-06-17|1830-2000|https://us02web.zoom.us/meeting/register/tZ0vcuGpqD4qHNPMWlNODAKiq1xyJqKUr0gm|
-|District Meeting|Discuss status of Divisions|2022-06-18|0800-0900|https://us02web.zoom.us/j/82403074552?pwd=VVFjRER1YkFodDVJRlA3VHdJeG9xZz09|
-|Invitation and Transition|Welcome our new District Leaders|2022-06-18|0900-1000|https://zoom.us/j/7024538876|
 
 ## Quick Links
 
