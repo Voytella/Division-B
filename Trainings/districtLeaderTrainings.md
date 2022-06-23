@@ -1,5 +1,10 @@
 # District Leader Trainings
 
+## Club Visit Strategies
+
+* June 26 @ 6:30 pm - 8:30 pm
+* [registration link](https://d33tm.org/event/club-visit-strategies-for-area-directors-22-06-26/)
+
 ## Introductory Trainings
 
 |Name|Description|Date|Time|Zoom Link|

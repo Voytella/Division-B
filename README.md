@@ -6,6 +6,11 @@ general Toastmaster tips.
 
 ## Recent Announcements
 
+### [2022-06-23] Training Announcement - Club Visit Strategies
+
+* June 26 @ 6:30 pm - 8:30 pm
+* [registration link](https://d33tm.org/event/club-visit-strategies-for-area-directors-22-06-26/)
+
 ### [2022-06-21] Club Officer Training on July 9
 
 Club Officer Training will be offered on Saturday July 9 at 8:00 am - 12:00 pm over Zoom. ([details](Trainings/clubOfficerTrainings.md))
