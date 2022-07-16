@@ -2,6 +2,6 @@
 
 |Steps|Instructions|Screenshots|
 |-----|------------|-----------|
-|1|Navigate to the folder or file to be copied.|[](DocumentationScreenshots/driveSourceFolder.png)|
+|1|Navigate to the folder or file to be copied.|![](DocumentationScreenshots/driveSourceFolder.png)|
 
 
