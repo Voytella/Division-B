@@ -16,7 +16,7 @@ completely independent of one another; modifying one will not affect the other.
 |2|Select the name of the folder to be copied, then select "Download".|![](DocumentationScreenshots/selectSourceFolder.png)|
 |3|The contents of the folder will be compressed into a zip file and downloaded to your computer.|![](DocumentationScreenshots/zipSourceFolder.png)|
 |4|Navigate to the folder to which your browser is configured to download files. By default, this is your "Downloads" folder.|![](DocumentationScreenshots/downloadsFolder.png)|
-|5|Find and select the downloaded zip file. Its name will be of the form `<source folder name>-<date and time of download>-<numeric identifier>.zip` and will be one of the most recent files added to the Downloads folder.|![](DocumentationScreenshots/sourceFolderZip.png)|
+|5|Find and select the downloaded zip file. Its name will be of the form `<source folder name>-<date and time of download>-<numeric identifier>.zip` and will be one of the most recently added files to the Downloads folder.|![](DocumentationScreenshots/sourceFolderZip.png)|
 |6|Double-click the zip file to unzip it. Depending on your computer, you may be asked to click through a couple windows or specify an unzip location. This document assumes the file was unzipped to its own, new folder within the Downloads folder.|![](DocumentationScreenshots/sourceFolderUnzip.png)|
 |7|Navigate to the Google Drive folder into which the source folder will be placed, also known as the destination folder.|![](DocumentationScreenshots/destinationFolder.png)|
 |8|In the top-left corner, select the "New" button, followed by "Folder upload".|![](DocumentationScreenshots/folderUpload.png)|
