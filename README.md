@@ -6,21 +6,16 @@ general Toastmaster tips.
 
 ## Recent Announcements
 
-### [2022-06-23] Training Announcement - Club Visit Strategies
+### [2022-07-16] Club Officer Training Make-Ups
 
-* June 26 @ 6:30 pm - 8:30 pm
-* [registration link](https://d33tm.org/event/club-visit-strategies-for-area-directors-22-06-26/)
+If any of your Club Officers missed the District 33 Club Officer Training,
+please be sure to have them attend a training offered by another District. Any
+Club Officers that attend training outside of District 33 need to ask that
+District's Program Quality Director (PQD) to email our PQD, Tan Pham (pqd@d33tm.org).
 
-### [2022-06-21] Club Officer Training on July 9
-
-Club Officer Training will be offered on Saturday July 9 at 8:00 am - 12:00 pm over Zoom. ([details](Trainings/clubOfficerTrainings.md))
-
-### [2022-06-08] Looking for Area Directors
-
-Forms and Position Listings: https://d33tm.org/district-leadership-forms/
+* [List of Trainings](Trainings/clubOfficerTrainingMakeUp.xlsx)
 
 ## Announcements for Area Directors
-
 
 ## Quick Links
 

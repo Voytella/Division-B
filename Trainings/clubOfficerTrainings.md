@@ -1,5 +1,14 @@
 # Club Officer Trainings
 
+## Make-Up Club Officer Training
+
+If any of your Club Officers missed the District 33 Club Officer Training,
+please be sure to have them attend a training offered by another District. Any
+Club Officers that attend training outside of District 33 need to ask that
+District's Program Quality Director (PQD) to email our PQD, Tan Pham (pqd@d33tm.org).
+
+* [List of Trainings](clubOfficerTrainingMakeUp.xlsx)
+
 ## July 09, 2022
 
 * 8:00 am - 12:00 pm
