@@ -35,7 +35,7 @@ District 33
 
 ---
 
-If you are interested in helping out, please let me know at `division-b@d33tm.org`.
+If you are interested in helping out, please let me know at division-b@d33tm.org.
 
 ## [2022-06-08] Area Directors Needed
 
