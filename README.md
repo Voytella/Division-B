@@ -6,6 +6,15 @@ general Toastmaster tips.
 
 ## Recent Announcements
 
+### [2022-07-18] Mentors Needed for New Club, Avocado Toast
+
+A new club has joined Division B, Avocado Toast! Their first meeting will be
+August 4 (Thursday) @ 11:45am - 12:45pm at the Mission Produce Offices. Since
+they are a brand new club, they are looking for experienced Toastmasters to help
+get them on their feet. Please let me (division-b@d33tm.org) know if you can help out!
+
+* [Details](Announcements/divisionAnnouncements.md)
+
 ### [2022-07-16] Club Officer Training Make-Ups
 
 If any of your Club Officers missed the District 33 Club Officer Training,
