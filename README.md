@@ -23,6 +23,7 @@ Club Officers that attend training outside of District 33 need to ask that
 District's Program Quality Director (PQD) to email our PQD, Tan Pham (pqd@d33tm.org).
 
 * [List of Trainings](Trainings/clubOfficerTrainingMakeUp.xlsx)
+* [Trainings Listed on District 33 Website](https://d33tm.org/events/category/training/cot/)
 
 ## Announcements for Area Directors
 
