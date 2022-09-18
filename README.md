@@ -6,26 +6,27 @@ general Toastmaster tips.
 
 ## Recent Announcements
 
-### [2022-07-18] Mentors Needed for New Club, Avocado Toast
+### [2022-09-18] District Council Meeting 09/24
 
-A new club has joined Division B, Avocado Toast! Their first meeting will be
-August 4 (Thursday) @ 11:45am - 12:45pm at the Mission Produce Offices. Since
-they are a brand new club, they are looking for experienced Toastmasters to help
-get them on their feet. Please let me (division-b@d33tm.org) know if you can help out!
+The District Council Meeting will be held on Saturday, September 24 @ 9:30am
+PDT. Club Presidents and Vice Presidents of Education are expected to
+attend. Attendees must be
+[registered](https://r20.rs6.net/tn.jsp?f=001dqm7zAHqKXzdueBExdEK7ozZ_CqM0pz_AAdEEJTltI9bS3iibf5c_-kd7C8mRKtKF-A7x5-FsMjHOrYrQPRTegIKkwHjyyoF1smU2vUdRPQnIccYAKyUXiaWpl102nNVZ7Ray88ABSeW9IYks-pMRjA4rV16nTeNRIXg-uovNPzqEjUinyhEBrywwSDPp68yo8BoGAlQp4_DN9pgpiejaktYi9Ux8NTo&c=UUHnwfOj9K57WzLGdUi-aCsfE3_NlNh-NaOkYeb6hcZhm4lBsv5EvQ==&ch=cDE_A5JFXKpas75dV_XqMUtVtk9JmrEXZNJ1YhqA_n5gTuHfij3UUQ==)
+by Friday, September 23 @ 6:00pm.
 
-* [Details](Announcements/divisionAnnouncements.md)
-
-### [2022-07-16] Club Officer Training Make-Ups
-
-If any of your Club Officers missed the District 33 Club Officer Training,
-please be sure to have them attend a training offered by another District. Any
-Club Officers that attend training outside of District 33 need to ask that
-District's Program Quality Director (PQD) to email our PQD, Tan Pham (pqd@d33tm.org).
-
-* [List of Trainings](Trainings/clubOfficerTrainingMakeUp.xlsx)
-* [Trainings Listed on District 33 Website](https://d33tm.org/events/category/training/cot/)
+* [Details](Announcements/districtAnnouncements.md)
 
 ## Announcements for Area Directors
+
+### [2022-09-18] District Executive Council (DEC) Meeting 09/24
+
+In addition to the District Council meeting, there will also be a DEC meeting
+beforehand at 8:00am PDT. You must be [registered](
+https://r20.rs6.net/tn.jsp?f=001dqm7zAHqKXzdueBExdEK7ozZ_CqM0pz_AAdEEJTltI9bS3iibf5c_-kd7C8mRKtKF-A7x5-FsMjHOrYrQPRTegIKkwHjyyoF1smU2vUdRPQnIccYAKyUXiaWpl102nNVZ7Ray88ABSeW9IYks-pMRjA4rV16nTeNRIXg-uovNPzqEjUinyhEBrywwSDPp68yo8BoGAlQp4_DN9pgpiejaktYi9Ux8NTo&c=UUHnwfOj9K57WzLGdUi-aCsfE3_NlNh-NaOkYeb6hcZhm4lBsv5EvQ==&ch=cDE_A5JFXKpas75dV_XqMUtVtk9JmrEXZNJ1YhqA_n5gTuHfij3UUQ==)
+by Friday, September 23 @ 6:00pm (the form is the same as the one for the
+District Council meeting).
+
+* [Details](Announcements/districtAnnouncements.md)
 
 ## Quick Links
 
