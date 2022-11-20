@@ -35,6 +35,7 @@ District Council meeting).
 * [District Website](https://d33tm.org/)
 * [Toastmasters International](https://www.toastmasters.org/)
 * [Division B Clubs](divisionBClubs.md)
+* [District Contest Schedule](https://docs.google.com/spreadsheets/d/191q7a-dUlhNI2dO0G2xu3p8D_tH1ehgatud6ICPcbVk/edit#gid=0)
  
 ### Training Listings
 
